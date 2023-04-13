@@ -1,0 +1,14 @@
+.currency {
+    margin: 20px;
+    box-shadow: 0px 2px 3px black;
+}
+
+#eventLog {
+    background-color: plum;
+    width: 300px;
+    height: 300px;
+    margin: 4px;
+    box-shadow: 0px 2px 3px black;
+    overflow: scroll;
+
+}
